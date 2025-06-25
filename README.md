@@ -28,7 +28,11 @@ The dataset used is `spam.csv`, which contains SMS messages labeled as 'ham' (no
 sms-spam-classifier/
 │
 ├── spam.csv                 # Dataset
+
 ├── code.ipynb               # Training notebook
+
 ├── model.pkl                # Trained model
+
 ├── vectorizer.pkl           # Saved TF-IDF vectorizer
+
 └── README.md                # Project documentation
