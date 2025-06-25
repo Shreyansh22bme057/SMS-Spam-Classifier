@@ -26,8 +26,10 @@ The dataset used is `spam.csv`, which contains SMS messages labeled as 'ham' (no
 ## 💡 Repo Structure
 
 sms-spam-classifier/
+
 │
-├── spam.csv                 # Dataset
+├── spam.csv                 
+# Dataset
 
 ├── code.ipynb               # Training notebook
 
