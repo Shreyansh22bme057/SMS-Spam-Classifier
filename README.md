@@ -37,7 +37,8 @@ streamlit_app.py
 model.pkl
 vectorizer.pkl
 
-3. Run the Streamlit app:
+3. **Run the Streamlit app**:
+   ```bash
    streamlit run streamlit_app.py
 
 4. Use the Web Interface:
@@ -50,11 +51,17 @@ Click "Predict" to classify the message as SPAM or NOT SPAM.
 sms-spam-classifier/
 │
 ├── spam.csv                 # Dataset
+
 ├── code.ipynb               # Training notebook
+
 ├── model.pkl                # Trained model file
+
 ├── vectorizer.pkl           # TF-IDF vectorizer file
+
 ├── streamlit_app.py         # Streamlit UI app
+
 ├── requirements.txt         # Python dependencies
+
 └── README.md                # Project documentation
 
 ## 📜 License
