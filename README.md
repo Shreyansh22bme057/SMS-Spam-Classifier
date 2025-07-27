@@ -2,6 +2,9 @@
 
 A machine learning-based SMS Spam Classifier that uses Natural Language Processing (NLP) techniques to distinguish between spam and ham (non-spam) messages.
 
+## Link
+Deployment link: "https://msg-spam-classifier.streamlit.app/"
+
 ## 🚀 Features
 
 - Preprocessing of SMS data including lowercasing, punctuation removal, stopword removal, stemming.
